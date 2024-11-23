@@ -5,17 +5,200 @@
       "name": "Wireless Mouse",
       "description": "Ergonomic wireless mouse with high precision.",
       "price": 150000,
-      "stock": 110
+      "stock": 10
+    },
+    {
+      "id": "8991389240083",
+      "name": "Buku Tulis skoLa by SIDU",
+      "description": "Buku Tulis isi 38 Lembar",
+      "price": 5000,
+      "stock": 3
     }
   ],
   "logs": [
     {
-      "id": 1,
+      "id": "1",
       "product_id": "8992745120650",
       "type": "stock_in",
       "quantity": 10,
       "note": "Restocked due to high demand",
       "date": "2024-11-22T10:00:00Z"
+    },
+    {
+      "id": "0233",
+      "product_id": "8992745120650",
+      "type": "stock_in",
+      "quantity": 1,
+      "note": "Restocking",
+      "date": "2024-11-23T09:22:42.474Z"
+    },
+    {
+      "id": "b6d8",
+      "product_id": "8992745120650",
+      "type": "stock_in",
+      "quantity": 2,
+      "note": "Restocking",
+      "date": "2024-11-23T09:23:59.358Z"
+    },
+    {
+      "id": "9145",
+      "product_id": "8992745120650",
+      "type": "stock_out",
+      "quantity": 1,
+      "note": "Sold",
+      "date": "2024-11-23T09:24:33.434Z"
+    },
+    {
+      "id": "c131",
+      "product_id": "8992745120650",
+      "type": "stock_in",
+      "quantity": 15,
+      "note": "Restocking",
+      "date": "2024-11-23T09:24:51.736Z"
+    },
+    {
+      "id": "a937",
+      "product_id": "8992745120650",
+      "type": "stock_out",
+      "quantity": 3,
+      "note": "Sold",
+      "date": "2024-11-23T09:25:05.125Z"
+    },
+    {
+      "id": "9876",
+      "product_id": "8992745120650",
+      "type": "stock_in",
+      "quantity": 5,
+      "note": "Restocking",
+      "date": "2024-11-23T09:26:00.385Z"
+    },
+    {
+      "id": "9e9c",
+      "product_id": "8992745120650",
+      "type": "stock_in",
+      "quantity": 3,
+      "note": "Restocking",
+      "date": "2024-11-23T11:54:20.468Z"
+    },
+    {
+      "id": "d7cb",
+      "product_id": "8992745120650",
+      "type": "stock_out",
+      "quantity": 2,
+      "note": "Sold",
+      "date": "2024-11-23T11:54:45.372Z"
+    },
+    {
+      "id": "ffe7",
+      "product_id": "8992745120650",
+      "type": "stock_in",
+      "quantity": 3,
+      "note": "Restocking",
+      "date": "2024-11-23T13:37:34.980Z"
+    },
+    {
+      "id": "ebe7",
+      "product_id": "8992745120650",
+      "type": "stock_out",
+      "quantity": 2,
+      "note": "Sold",
+      "date": "2024-11-23T13:37:58.147Z"
+    },
+    {
+      "id": "7636",
+      "product_id": "8992745120650",
+      "type": "stock_in",
+      "quantity": 3,
+      "note": "Restocking",
+      "date": "2024-11-23T13:39:50.859Z"
+    },
+    {
+      "id": "ce2d",
+      "product_id": "8992745120650",
+      "type": "stock_out",
+      "quantity": 5,
+      "note": "Sold",
+      "date": "2024-11-23T13:41:55.529Z"
+    },
+    {
+      "id": "fb97",
+      "product_id": "8991389240083",
+      "type": "create",
+      "quantity": 0,
+      "note": "Added new product: Buku Tulis skoLa by SIDU",
+      "date": "2024-11-23T13:54:00.285Z"
+    },
+    {
+      "id": "ea89",
+      "product_id": "8991389240083",
+      "type": "stock_in",
+      "quantity": 2,
+      "note": "Restocking",
+      "date": "2024-11-23T13:54:58.178Z"
+    },
+    {
+      "id": "10da",
+      "product_id": "8991389240083",
+      "type": "update",
+      "quantity": 0,
+      "note": "Updated product: Buku Tulis skoLa by SIDU",
+      "date": "2024-11-23T13:55:44.777Z"
+    },
+    {
+      "id": "2147",
+      "product_id": "8991389240083",
+      "type": "delete",
+      "quantity": 0,
+      "note": "Deleted product with ID: 8991389240083",
+      "date": "2024-11-23T14:06:26.428Z"
+    },
+    {
+      "id": "9e2d",
+      "product_id": "8991389240083",
+      "type": "create",
+      "quantity": 0,
+      "note": "Added new product: Buku Tulis",
+      "date": "2024-11-23T14:08:45.985Z"
+    },
+    {
+      "id": "f25f",
+      "product_id": "8991389240083",
+      "type": "stock_in",
+      "quantity": 5,
+      "note": "Restocking",
+      "date": "2024-11-23T14:10:00.523Z"
+    },
+    {
+      "id": "482a",
+      "product_id": "8991389240083",
+      "type": "delete",
+      "quantity": 0,
+      "note": "Deleted product with ID: 8991389240083",
+      "date": "2024-11-23T14:19:01.642Z"
+    },
+    {
+      "id": "94a1",
+      "product_id": "8991389240083",
+      "type": "create",
+      "quantity": 1,
+      "note": "Added new product: Buku Tulis skoLa by SIDU",
+      "date": "2024-11-23T14:19:47.102Z"
+    },
+    {
+      "id": "a00d",
+      "product_id": "8991389240083",
+      "type": "stock_in",
+      "quantity": 4,
+      "note": "Restocking",
+      "date": "2024-11-23T14:20:30.040Z"
+    },
+    {
+      "id": "77e6",
+      "product_id": "8991389240083",
+      "type": "stock_out",
+      "quantity": 2,
+      "note": "Sold",
+      "date": "2024-11-23T14:21:13.427Z"
     }
   ]
 }
